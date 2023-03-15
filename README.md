@@ -3,6 +3,7 @@ A clone of the landing page of [Flipkart](https://flipkart.com) developed using 
 
 <img src="homepage.png">
 
+
 ## Tech Stack
 
 <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp; <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp; <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp; <img height="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
