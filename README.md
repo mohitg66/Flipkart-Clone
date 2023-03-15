@@ -1,6 +1,7 @@
 # Flipkart Clone
 A clone of the landing page of [Flipkart](https://flipkart.com) developed using pure HTML &amp; CSS
 
+<img src="homepage.png">
 
 ## Tech Stack
 
